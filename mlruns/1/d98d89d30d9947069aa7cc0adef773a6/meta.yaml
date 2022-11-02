@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/d98d89d30d9947069aa7cc0adef773a6/artifacts
+deleted_time: 1667416685634
+end_time: 1667410436988
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: d98d89d30d9947069aa7cc0adef773a6
+run_name: lyrical-squid-807
+run_uuid: d98d89d30d9947069aa7cc0adef773a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667410436616
+status: 4
+tags: []
+user_id: dmitry

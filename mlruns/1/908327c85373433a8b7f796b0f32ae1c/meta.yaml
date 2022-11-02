@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/908327c85373433a8b7f796b0f32ae1c/artifacts
+deleted_time: 1667416684835
+end_time: 1667416631755
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 908327c85373433a8b7f796b0f32ae1c
+run_name: selective-sow-411
+run_uuid: 908327c85373433a8b7f796b0f32ae1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416630735
+status: 3
+tags: []
+user_id: dmitry

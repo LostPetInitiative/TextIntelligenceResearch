@@ -24,6 +24,22 @@ from mlflow.sklearn import eval_and_log_metrics
 import mlflow
 import sklearn
 
+import pandas as pd
+
+from sklearn.base import BaseEstimator, TransformerMixin
+
+class InputAdapter(BaseEstimator, TransformerMixin):
+    '''This one links MLFflow model (requires Pandas DF input for schema to be deployable model) with
+        SKLearn text preprocessing (requires list of strings as input)
+    '''
+    def fit(self, x, y=None):
+        return self
+
+    def transform(self, x:pd.DataFrame):
+        result = x["text"].to_list()
+        #print(f"outputting {len(result)} entries. result is {type(result)}.")
+        return result
+
 messageTypesDesc = ["Lost","Found","NotRelevant/Other"]
 speciesTypesDesc = ["Cat","Dog","Other"]
 sexesDesc = ["Female","Male","NotDescribed/Other"]
@@ -56,22 +72,28 @@ if __name__ == "__main__":
     else:
         raise "Unsupported task num"
 
+    
+    
+
     texts = [x["text"] for x in parsed]
     targets = [labelNames[encodeDataSample(x)[taskNum]] for x in parsed]
 
-    X_train, X_test, y_train, y_test = train_test_split(texts, targets, test_size=0.4, random_state=1433532, stratify=targets)
+    df = pd.DataFrame(texts, columns=["text"])
 
-    count_vect  = CountVectorizer(input=X_train,
+    X_train, X_test, y_train, y_test = train_test_split(df,targets, test_size=0.4, random_state=1433532, stratify=targets)
+
+    count_vect  = CountVectorizer(input="content",
         lowercase=True,
         token_pattern=r"(?u)\b\w\w+\b"
     )
 
     sk_model = Pipeline([
+        ('adapter', InputAdapter()),
         ('vect', count_vect),
         ('tfidf', TfidfTransformer()),
         #('mnb', MultinomialNB()),
-        ('clf', ComplementNB()),
-        #('linreg',OneVsRestClassifier(LinearRegression())),
+        #('clf', ComplementNB()),
+        ('linreg',OneVsRestClassifier(LinearRegression())),
         #('linSVC',OneVsRestClassifier(LinearSVC())),
         ## ("gauss",GaussianProcessClassifier())
         #("perceptron", Perceptron())
@@ -84,20 +106,26 @@ if __name__ == "__main__":
         #tags={"version": "v1", "priority": "P1"},
     )
 
-    with mlflow.start_run(experiment_id=experiment.experiment_id) as run:
+    with mlflow.start_run(
+        experiment_id=experiment.experiment_id,
+        description=f'Input {dataFile};\nmode {sk_model}') as run:
         
-        mlflow.sklearn.autolog()
+        #mlflow.sklearn.autolog()
 
         sk_model.fit(X_train, y_train)
 
-        # input_schema = Schema([
-        #     ColSpec("string", "text"),
-        # ])
-        # output_schema = Schema([ColSpec("integer", taskName)])
-        # signature = ModelSignature(inputs=input_schema, outputs=output_schema)
-        
-        # mlflow.sklearn.log_model(sk_model, "sk_models", signature=signature)
+        input_example = {
+            "text": r"https://vk.com/id395768903 информационно. МО Сидит пёс метис в типе овчарки в ошейнике на платформе рн станции в Хотьково, напуган очень. Покормили, кушать не стала, не агрессивная, добрая.",
+        }
 
+        input_schema = Schema([
+            ColSpec("string", "text"),
+        ])
+        output_schema = Schema([ColSpec("string", taskName)])
+        signature = ModelSignature(inputs=input_schema, outputs=output_schema)
+
+        mlflow.sklearn.log_model(sk_model, "sk_models", signature=signature, input_example = input_example)
+        
         predicted = sk_model.predict(X_test)
 
         # metrics1 = eval_and_log_metrics(sk_model, X_test, y_test, prefix="val_")

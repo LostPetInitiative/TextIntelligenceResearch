@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/cfd0101ebceb415abc4b50c2f1d2e408/artifacts
+deleted_time: 1667416685615
+end_time: 1667411710785
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: cfd0101ebceb415abc4b50c2f1d2e408
+run_name: blushing-turtle-276
+run_uuid: cfd0101ebceb415abc4b50c2f1d2e408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667411710288
+status: 4
+tags: []
+user_id: dmitry

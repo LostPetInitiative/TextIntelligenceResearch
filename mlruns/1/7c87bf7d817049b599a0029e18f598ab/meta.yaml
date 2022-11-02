@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/7c87bf7d817049b599a0029e18f598ab/artifacts
+deleted_time: 1667416685592
+end_time: 1667414645917
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 7c87bf7d817049b599a0029e18f598ab
+run_name: hilarious-steed-385
+run_uuid: 7c87bf7d817049b599a0029e18f598ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667414645775
+status: 4
+tags: []
+user_id: dmitry

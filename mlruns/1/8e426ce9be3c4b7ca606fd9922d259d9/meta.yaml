@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/8e426ce9be3c4b7ca606fd9922d259d9/artifacts
+deleted_time: 1667416684840
+end_time: 1667416422503
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 8e426ce9be3c4b7ca606fd9922d259d9
+run_name: gifted-shrew-764
+run_uuid: 8e426ce9be3c4b7ca606fd9922d259d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416422498
+status: 4
+tags: []
+user_id: dmitry

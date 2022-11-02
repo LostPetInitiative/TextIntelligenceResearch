@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/96caf7c4642145209552478af5a347cc/artifacts
+deleted_time: 1667416685227
+end_time: 1667415299097
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 96caf7c4642145209552478af5a347cc
+run_name: bemused-calf-101
+run_uuid: 96caf7c4642145209552478af5a347cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667415298964
+status: 4
+tags: []
+user_id: dmitry

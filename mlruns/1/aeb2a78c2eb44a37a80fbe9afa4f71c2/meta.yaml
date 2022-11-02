@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/aeb2a78c2eb44a37a80fbe9afa4f71c2/artifacts
+deleted_time: 1667416685620
+end_time: 1667411665445
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: aeb2a78c2eb44a37a80fbe9afa4f71c2
+run_name: delightful-carp-209
+run_uuid: aeb2a78c2eb44a37a80fbe9afa4f71c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667411665313
+status: 4
+tags: []
+user_id: dmitry

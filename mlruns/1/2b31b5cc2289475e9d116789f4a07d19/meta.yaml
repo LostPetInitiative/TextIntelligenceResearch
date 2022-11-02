@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/2b31b5cc2289475e9d116789f4a07d19/artifacts
+deleted_time: 1667416685581
+end_time: 1667414824446
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 2b31b5cc2289475e9d116789f4a07d19
+run_name: sedate-hawk-626
+run_uuid: 2b31b5cc2289475e9d116789f4a07d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667414824317
+status: 4
+tags: []
+user_id: dmitry

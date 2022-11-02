@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/aab0bac902cd4ad4be2f8ab06a46b48a/artifacts
+deleted_time: 1667416684849
+end_time: 1667415950665
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: aab0bac902cd4ad4be2f8ab06a46b48a
+run_name: crawling-frog-236
+run_uuid: aab0bac902cd4ad4be2f8ab06a46b48a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667415950532
+status: 4
+tags: []
+user_id: dmitry

@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/30c8e70319474d3f806a551de8f97980/artifacts
+deleted_time: 1667416685605
+end_time: 1667412173139
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 30c8e70319474d3f806a551de8f97980
+run_name: magnificent-rat-951
+run_uuid: 30c8e70319474d3f806a551de8f97980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667412171882
+status: 4
+tags: []
+user_id: dmitry

@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/3383997a65364409899f82ba9b8e2e52/artifacts
+deleted_time: 1667416684842
+end_time: 1667416014569
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 3383997a65364409899f82ba9b8e2e52
+run_name: capricious-fawn-777
+run_uuid: 3383997a65364409899f82ba9b8e2e52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416012636
+status: 3
+tags: []
+user_id: dmitry

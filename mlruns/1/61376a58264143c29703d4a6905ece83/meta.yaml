@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/61376a58264143c29703d4a6905ece83/artifacts
+deleted_time: 1667416685207
+end_time: 1667416289992
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 61376a58264143c29703d4a6905ece83
+run_name: learned-stag-434
+run_uuid: 61376a58264143c29703d4a6905ece83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416289986
+status: 4
+tags: []
+user_id: dmitry

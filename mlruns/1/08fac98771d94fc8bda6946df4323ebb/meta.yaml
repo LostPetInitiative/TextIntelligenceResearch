@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/08fac98771d94fc8bda6946df4323ebb/artifacts
+deleted_time: 1667416892026
+end_time: 1667416831487
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 08fac98771d94fc8bda6946df4323ebb
+run_name: exultant-asp-802
+run_uuid: 08fac98771d94fc8bda6946df4323ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416830473
+status: 3
+tags: []
+user_id: dmitry

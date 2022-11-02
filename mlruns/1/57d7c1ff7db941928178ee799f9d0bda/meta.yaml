@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/57d7c1ff7db941928178ee799f9d0bda/artifacts
+deleted_time: 1667416685212
+end_time: 1667416229511
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 57d7c1ff7db941928178ee799f9d0bda
+run_name: glamorous-hawk-60
+run_uuid: 57d7c1ff7db941928178ee799f9d0bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416229504
+status: 4
+tags: []
+user_id: dmitry

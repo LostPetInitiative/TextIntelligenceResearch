@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/a5c815baa15042efa4aaf81988ec1548/artifacts
+deleted_time: 1667416685224
+end_time: 1667415384493
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: a5c815baa15042efa4aaf81988ec1548
+run_name: omniscient-skink-261
+run_uuid: a5c815baa15042efa4aaf81988ec1548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667415384361
+status: 4
+tags: []
+user_id: dmitry

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/85706b3d0a044c6fa2920067da4f090d/artifacts
+end_time: 1667416861309
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 85706b3d0a044c6fa2920067da4f090d
+run_name: rumbling-conch-431
+run_uuid: 85706b3d0a044c6fa2920067da4f090d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416860297
+status: 3
+tags: []
+user_id: dmitry

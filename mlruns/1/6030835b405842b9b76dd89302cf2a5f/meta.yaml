@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/6030835b405842b9b76dd89302cf2a5f/artifacts
+deleted_time: 1667416892029
+end_time: 1667416692049
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 6030835b405842b9b76dd89302cf2a5f
+run_name: mysterious-moth-372
+run_uuid: 6030835b405842b9b76dd89302cf2a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416691022
+status: 3
+tags: []
+user_id: dmitry

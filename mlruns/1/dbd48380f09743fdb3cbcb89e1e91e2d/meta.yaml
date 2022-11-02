@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/dbd48380f09743fdb3cbcb89e1e91e2d/artifacts
+deleted_time: 1667416685630
+end_time: 1667410709554
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: dbd48380f09743fdb3cbcb89e1e91e2d
+run_name: fortunate-rat-927
+run_uuid: dbd48380f09743fdb3cbcb89e1e91e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667410709149
+status: 3
+tags: []
+user_id: dmitry

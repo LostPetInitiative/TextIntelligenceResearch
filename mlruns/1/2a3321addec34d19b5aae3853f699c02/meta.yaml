@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/2a3321addec34d19b5aae3853f699c02/artifacts
+deleted_time: 1667416685221
+end_time: 1667416033503
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 2a3321addec34d19b5aae3853f699c02
+run_name: adaptable-bug-486
+run_uuid: 2a3321addec34d19b5aae3853f699c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416033369
+status: 4
+tags: []
+user_id: dmitry

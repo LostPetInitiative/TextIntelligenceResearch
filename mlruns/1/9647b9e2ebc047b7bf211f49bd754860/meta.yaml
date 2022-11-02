@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/9647b9e2ebc047b7bf211f49bd754860/artifacts
+deleted_time: 1667416684839
+end_time: 1667408249405
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 9647b9e2ebc047b7bf211f49bd754860
+run_name: hilarious-hound-34
+run_uuid: 9647b9e2ebc047b7bf211f49bd754860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667408248992
+status: 3
+tags: []
+user_id: dmitry

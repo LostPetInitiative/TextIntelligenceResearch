@@ -1,0 +1,4 @@
+Input data/project-56-at-2022-11-02-07-29-052fb4ac.json;
+mode Pipeline(steps=[('adapter', InputAdapter()), ('vect', CountVectorizer()),
+                ('tfidf', TfidfTransformer()),
+                ('linreg', OneVsRestClassifier(estimator=LinearRegression()))])

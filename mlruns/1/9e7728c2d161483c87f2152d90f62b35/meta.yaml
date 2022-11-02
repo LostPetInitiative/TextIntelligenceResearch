@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/9e7728c2d161483c87f2152d90f62b35/artifacts
+deleted_time: 1667416685225
+end_time: 1667415449561
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 9e7728c2d161483c87f2152d90f62b35
+run_name: awesome-ray-135
+run_uuid: 9e7728c2d161483c87f2152d90f62b35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667415449429
+status: 4
+tags: []
+user_id: dmitry

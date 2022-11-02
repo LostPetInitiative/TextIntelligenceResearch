@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/eb41ea80cf49414db42c1a30b92c08f6/artifacts
+deleted_time: 1667416685625
+end_time: 1667410761706
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: eb41ea80cf49414db42c1a30b92c08f6
+run_name: enthused-newt-61
+run_uuid: eb41ea80cf49414db42c1a30b92c08f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667410760903
+status: 3
+tags: []
+user_id: dmitry

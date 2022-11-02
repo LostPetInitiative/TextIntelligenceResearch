@@ -1,0 +1,24 @@
+artifact_path: sk_models
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.15
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.3
+mlflow_version: 1.30.0
+model_uuid: cf042bb303dc4044beb000cc641cb40a
+run_id: 9647b9e2ebc047b7bf211f49bd754860
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "text", "type": "string"}]'
+  outputs: '[{"name": "Lost/Found message", "type": "string"}]'
+utc_time_created: '2022-11-02 16:57:29.348390'

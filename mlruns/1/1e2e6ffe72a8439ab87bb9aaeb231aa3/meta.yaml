@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/1e2e6ffe72a8439ab87bb9aaeb231aa3/artifacts
+deleted_time: 1667416685226
+end_time: 1667415109653
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 1e2e6ffe72a8439ab87bb9aaeb231aa3
+run_name: abrasive-wren-961
+run_uuid: 1e2e6ffe72a8439ab87bb9aaeb231aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667415109523
+status: 4
+tags: []
+user_id: dmitry

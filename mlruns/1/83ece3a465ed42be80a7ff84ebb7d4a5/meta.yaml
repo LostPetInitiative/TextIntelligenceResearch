@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/83ece3a465ed42be80a7ff84ebb7d4a5/artifacts
+deleted_time: 1667416684841
+end_time: 1667408267953
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 83ece3a465ed42be80a7ff84ebb7d4a5
+run_name: clumsy-slug-746
+run_uuid: 83ece3a465ed42be80a7ff84ebb7d4a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667408267524
+status: 3
+tags: []
+user_id: dmitry

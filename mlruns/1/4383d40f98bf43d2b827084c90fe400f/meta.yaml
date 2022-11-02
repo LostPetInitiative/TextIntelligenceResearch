@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/4383d40f98bf43d2b827084c90fe400f/artifacts
+end_time: 1667418826586
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4383d40f98bf43d2b827084c90fe400f
+run_name: luxuriant-lamb-36
+run_uuid: 4383d40f98bf43d2b827084c90fe400f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667418825558
+status: 3
+tags: []
+user_id: dmitry

@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/f0f88b0e67e74e198faeb0a5522b1f96/artifacts
+deleted_time: 1667416685610
+end_time: 1667413757238
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: f0f88b0e67e74e198faeb0a5522b1f96
+run_name: marvelous-swan-629
+run_uuid: f0f88b0e67e74e198faeb0a5522b1f96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667413756000
+status: 4
+tags: []
+user_id: dmitry

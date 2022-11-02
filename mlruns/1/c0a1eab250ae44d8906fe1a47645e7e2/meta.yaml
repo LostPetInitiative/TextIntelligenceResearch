@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/c0a1eab250ae44d8906fe1a47645e7e2/artifacts
+deleted_time: 1667416892030
+end_time: 1667416757972
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: c0a1eab250ae44d8906fe1a47645e7e2
+run_name: delightful-stag-528
+run_uuid: c0a1eab250ae44d8906fe1a47645e7e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667416756959
+status: 3
+tags: []
+user_id: dmitry

@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/2c533762a0d0455eb681d158231b16a3/artifacts
+deleted_time: 1667416685225
+end_time: 1667415004096
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 2c533762a0d0455eb681d158231b16a3
+run_name: big-roo-496
+run_uuid: 2c533762a0d0455eb681d158231b16a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667415003963
+status: 4
+tags: []
+user_id: dmitry

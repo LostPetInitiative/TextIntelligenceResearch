@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/15c531d7b8aa42ae903997c7dd028368/artifacts
+deleted_time: 1667416684838
+end_time: 1667407605063
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 15c531d7b8aa42ae903997c7dd028368
+run_name: exultant-goose-67
+run_uuid: 15c531d7b8aa42ae903997c7dd028368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667407604638
+status: 3
+tags: []
+user_id: dmitry

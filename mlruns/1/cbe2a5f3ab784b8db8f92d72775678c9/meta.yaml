@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/ssd/TextIntelligenceResearch/mlruns/1/cbe2a5f3ab784b8db8f92d72775678c9/artifacts
+deleted_time: 1667416685228
+end_time: 1667414859738
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: cbe2a5f3ab784b8db8f92d72775678c9
+run_name: zealous-toad-125
+run_uuid: cbe2a5f3ab784b8db8f92d72775678c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667414859608
+status: 4
+tags: []
+user_id: dmitry
