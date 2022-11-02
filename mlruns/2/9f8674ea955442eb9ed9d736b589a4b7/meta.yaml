@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/repos/github/Kashtanka/TextIntelligenceResearch/mlruns/2/9f8674ea955442eb9ed9d736b589a4b7/artifacts
+end_time: 1667374281566
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9f8674ea955442eb9ed9d736b589a4b7
+run_name: gaudy-skunk-107
+run_uuid: 9f8674ea955442eb9ed9d736b589a4b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667374274471
+status: 3
+tags: []
+user_id: Dmitry

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/repos/github/Kashtanka/TextIntelligenceResearch/mlruns/2/5502f4fef2a24557b9e69cb07677c712/artifacts
+end_time: 1667372619050
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5502f4fef2a24557b9e69cb07677c712
+run_name: agreeable-horse-805
+run_uuid: 5502f4fef2a24557b9e69cb07677c712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667372603597
+status: 3
+tags: []
+user_id: Dmitry

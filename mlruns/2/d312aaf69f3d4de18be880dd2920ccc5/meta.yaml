@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/repos/github/Kashtanka/TextIntelligenceResearch/mlruns/2/d312aaf69f3d4de18be880dd2920ccc5/artifacts
+end_time: 1667374237800
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d312aaf69f3d4de18be880dd2920ccc5
+run_name: skittish-cat-182
+run_uuid: d312aaf69f3d4de18be880dd2920ccc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667374228227
+status: 3
+tags: []
+user_id: Dmitry

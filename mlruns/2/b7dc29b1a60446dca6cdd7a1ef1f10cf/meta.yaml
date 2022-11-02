@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/repos/github/Kashtanka/TextIntelligenceResearch/mlruns/2/b7dc29b1a60446dca6cdd7a1ef1f10cf/artifacts
+deleted_time: 1667370234315
+end_time: 1667370121133
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: deleted
+run_id: b7dc29b1a60446dca6cdd7a1ef1f10cf
+run_name: rare-bug-431
+run_uuid: b7dc29b1a60446dca6cdd7a1ef1f10cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667370116393
+status: 4
+tags: []
+user_id: Dmitry

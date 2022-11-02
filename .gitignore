@@ -1,0 +1,7 @@
+// ---alpheus-managed-start---
+**/*.hash
+.alpheus/storage
+data/cards.tar.bz2
+// ---alpheus-managed-end---
+
+venv

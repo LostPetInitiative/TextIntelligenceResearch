@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/repos/github/Kashtanka/TextIntelligenceResearch/mlruns/2/d6272f1000cb434f852e79d9b8384715/artifacts
+deleted_time: 1667371821154
+end_time: 1667371729360
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: deleted
+run_id: d6272f1000cb434f852e79d9b8384715
+run_name: luminous-perch-478
+run_uuid: d6272f1000cb434f852e79d9b8384715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667371724676
+status: 3
+tags: []
+user_id: Dmitry
